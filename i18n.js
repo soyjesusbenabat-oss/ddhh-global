@@ -94,6 +94,7 @@ es:{
       {t:'Certificado de aceptación de publicación'},{t:'Coffee breaks (presencial)'},
       {t:'Acceso a la plataforma online'},{t:'Programa social del congreso'}
     ],
+    listenerCta:'¿Solo quiere asistir? Inscripción de oyentes →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'Con actividad de networking',desc:'Incluye todos los derechos de la inscripción básica en modalidad presencial e incorpora una cena de trabajo o cóctel con otras personas participantes del congreso.'},
       {color:'#f7941d',price:'250€',title:'Con publicación científica',desc:'Opción voluntaria que solo abona el primer firmante de cada propuesta. Complemento (+100€) para sufragar la evaluación por pares ciega y la edición en una editorial indexada en el ranking SPI.'},
@@ -248,6 +249,7 @@ en:{
       {t:'Certificate of publication acceptance'},{t:'Coffee breaks (in-person)'},
       {t:'Access to online platform'},{t:'Congress social programme'}
     ],
+    listenerCta:'Attending only? Listener registration →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'With networking activity',desc:'Includes all rights of the standard in-person registration, plus a working dinner or cocktail with other congress participants.'},
       {color:'#f7941d',price:'250€',title:'With scientific publication',desc:'Voluntary option payable by the first author only. Add-on (+100€) covering blind peer review and publication in an SPI-ranked publisher.'},
@@ -402,6 +404,7 @@ pt:{
       {t:'Certificado de aceitação de publicação'},{t:'Coffee breaks (presencial)'},
       {t:'Acesso à plataforma online'},{t:'Programa social do congresso'}
     ],
+    listenerCta:'Só quer assistir? Inscrição de ouvintes →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'Com atividade de networking',desc:'Inclui todos os direitos da inscrição base em modalidade presencial e incorpora um jantar de trabalho ou cocktail com outros participantes do congresso.'},
       {color:'#f7941d',price:'250€',title:'Com publicação científica',desc:'Opção voluntária paga apenas pelo primeiro signatário. Complemento (+100€) para a avaliação por pares cega e edição numa editora indexada no ranking SPI.'},
