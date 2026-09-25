@@ -11,7 +11,7 @@ es:{
     badge:'VIII Congreso Internacional · DDHH GLOBAL 2027',
     titleMain:'Derechos humanos, tecnología y vulnerabilidades globales',
     eraPrefix:'en la era de la',aiLabel:'Inteligencia Artificial',
-    date1:'17–19 marzo 2027 · Presencial',date2:'16 marzo 2027 · Online',venueChip:'Facultad de Derecho · UCM, Madrid',
+    date1:'17 y 18 marzo 2027 · Presencial',date2:'16 marzo 2027 · Online',venueChip:'Facultad de Derecho · UCM, Madrid',
     cta1:'Presenta tu propuesta →',cta2:'Ver las 10 líneas temáticas',
     statEdition:'Edición',statLines:'Líneas temáticas',statCommittee:'En el comité',statSince:'Desde',
     marquee:'Inteligencia Artificial\u00a0\u00a0\u25cf\u00a0\u00a0Dignidad\u00a0\u00a0\u25cf\u00a0\u00a0Justicia global\u00a0\u00a0\u25cf\u00a0\u00a0Tecnología\u00a0\u00a0\u25cf\u00a0\u00a0Vulnerabilidades\u00a0\u00a0\u25cf\u00a0\u00a0Derechos humanos\u00a0\u00a0\u25cf\u00a0\u00a0'
@@ -62,7 +62,7 @@ es:{
   },
   part:{
     label:'Participación · Congreso híbrido',h2:'¿Cómo participar?',
-    sub:'Cuatro formas de sumarte, presencial u online — 17 a 19 de marzo (presencial) · 16 de marzo (online).',
+    sub:'Cuatro formas de sumarte, presencial u online — 17 y 18 de marzo (presencial) · 16 de marzo (online).',
     modTitle:'Modalidades de presentación',reqTitle:'Requisitos de la propuesta',
     simposioText:'¿Quieres proponer un simposio o un panel temático? Escribe directamente a la organización:',
     portalText:'Accede a Portal Intracom para registrar tu participación',
@@ -165,7 +165,7 @@ en:{
     badge:'VIII International Congress · DDHH GLOBAL 2027',
     titleMain:'Human rights, technology and global vulnerabilities',
     eraPrefix:'in the era of',aiLabel:'Artificial Intelligence',
-    date1:'17–19 March 2027 · In-person',date2:'16 March 2027 · Online',venueChip:'Faculty of Law · UCM, Madrid',
+    date1:'17–18 March 2027 · In-person',date2:'16 March 2027 · Online',venueChip:'Faculty of Law · UCM, Madrid',
     cta1:'Submit your proposal →',cta2:'View the 10 thematic lines',
     statEdition:'Edition',statLines:'Thematic lines',statCommittee:'In the committee',statSince:'Since',
     marquee:'Artificial Intelligence\u00a0\u00a0\u25cf\u00a0\u00a0Dignity\u00a0\u00a0\u25cf\u00a0\u00a0Global Justice\u00a0\u00a0\u25cf\u00a0\u00a0Technology\u00a0\u00a0\u25cf\u00a0\u00a0Vulnerabilities\u00a0\u00a0\u25cf\u00a0\u00a0Human Rights\u00a0\u00a0\u25cf\u00a0\u00a0'
@@ -216,7 +216,7 @@ en:{
   },
   part:{
     label:'Participation · Hybrid congress',h2:'How to participate?',
-    sub:'Four ways to join, in-person or online — 17 to 19 March (in-person) · 16 March (online).',
+    sub:'Four ways to join, in-person or online — 17 and 18 March (in-person) · 16 March (online).',
     modTitle:'Presentation formats',reqTitle:'Proposal requirements',
     simposioText:'Would you like to propose a symposium or thematic panel? Write directly to the organisers:',
     portalText:'Access the Intracom Portal to register your participation',
@@ -319,7 +319,7 @@ pt:{
     badge:'VIII Congresso Internacional · DDHH GLOBAL 2027',
     titleMain:'Direitos humanos, tecnologia e vulnerabilidades globais',
     eraPrefix:'na era da',aiLabel:'Inteligência Artificial',
-    date1:'17–19 março 2027 · Presencial',date2:'16 março 2027 · Online',venueChip:'Faculdade de Direito · UCM, Madrid',
+    date1:'17 e 18 março 2027 · Presencial',date2:'16 março 2027 · Online',venueChip:'Faculdade de Direito · UCM, Madrid',
     cta1:'Submeta a sua proposta →',cta2:'Ver as 10 linhas temáticas',
     statEdition:'Edição',statLines:'Linhas temáticas',statCommittee:'No comité',statSince:'Desde',
     marquee:'Inteligência Artificial\u00a0\u00a0\u25cf\u00a0\u00a0Dignidade\u00a0\u00a0\u25cf\u00a0\u00a0Justiça global\u00a0\u00a0\u25cf\u00a0\u00a0Tecnologia\u00a0\u00a0\u25cf\u00a0\u00a0Vulnerabilidades\u00a0\u00a0\u25cf\u00a0\u00a0Direitos humanos\u00a0\u00a0\u25cf\u00a0\u00a0'
@@ -370,7 +370,7 @@ pt:{
   },
   part:{
     label:'Participação · Congresso híbrido',h2:'Como participar?',
-    sub:'Quatro formas de participar, presencial ou online — 17 a 19 de março (presencial) · 16 de março (online).',
+    sub:'Quatro formas de participar, presencial ou online — 17 e 18 de março (presencial) · 16 de março (online).',
     modTitle:'Modalidades de apresentação',reqTitle:'Requisitos da proposta',
     simposioText:'Deseja propor um simpósio ou painel temático? Escreva diretamente à organização:',
     portalText:'Aceda ao Portal Intracom para registar a sua participação',
