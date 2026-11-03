@@ -137,7 +137,7 @@ es:{
     p2:'Presentar la comunicación en el programa no obliga a enviar el texto completo: la publicación es una vía posterior y voluntaria para quienes deseen que su trabajo se considere como capítulo de libro o artículo de revista.',
     items:[
       {n:'1',title:'Monografía colectiva en Ediciones Intracom',desc:'Capítulo de libro en una monografía colectiva del congreso, en colecciones científicas con consejo editorial. Evaluación por pares de doble ciego, ISBN para la obra y DOI para cada capítulo.'},
-      {n:'2',title:'Revista de DDHHGLOBAL y revistas colaboradoras',desc:'Los autores pueden optar por presentar su trabajo a la revista del congreso, la Revista Iberoamericana de Derechos Humanos y Globalización, o a una revista colaboradora, que lo someterá a su propio proceso de evaluación: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'2',title:'Revista de DDHHGLOBAL y revistas colaboradoras',url:'https://ddhhglobal-journal.portalintracom.com',urlLabel:'Ir a la revista de DDHHGLOBAL →',desc:'Los autores pueden optar por presentar su trabajo a la revista del congreso, la Revista Iberoamericana de Derechos Humanos y Globalización, o a una revista colaboradora, que lo someterá a su propio proceso de evaluación: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
       {n:'3',title:'Calidad científica acreditable',desc:'La aceptación depende solo de la evaluación científica, nunca del pago de la inscripción. Se admiten trabajos en español, portugués e inglés.'}
     ],
     faqTitle:"Preguntas frecuentes sobre la publicación",
@@ -302,7 +302,7 @@ en:{
     p2:'Presenting a paper at the congress does not oblige sending the full text: publication is a subsequent, voluntary option for those who wish their work to be considered as a book chapter or journal article.',
     items:[
       {n:'1',title:'Collective monograph with Ediciones Intracom',desc:'Book chapter in a collective monograph of the conference, in scholarly series with an editorial board. Double-blind peer review, an ISBN for the volume and a DOI for each chapter.'},
-      {n:'2',title:'DDHHGLOBAL journal and partner journals',desc:'Authors may choose to submit their work to the conference journal, the Iberoamerican Journal of Human Rights and Globalization, or to a partner journal, which will put it through its own review process: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'2',title:'DDHHGLOBAL journal and partner journals',url:'https://ddhhglobal-journal.portalintracom.com',urlLabel:'Visit the DDHHGLOBAL journal →',desc:'Authors may choose to submit their work to the conference journal, the Iberoamerican Journal of Human Rights and Globalization, or to a partner journal, which will put it through its own review process: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
       {n:'3',title:'Verifiable scientific quality',desc:'Acceptance depends solely on scientific review, never on payment of the registration fee. Papers are accepted in Spanish, Portuguese and English.'}
     ],
     faqTitle:"Frequently asked questions about publication",
@@ -467,7 +467,7 @@ pt:{
     p2:'Apresentar a comunicação no programa não obriga ao envio do texto completo: a publicação é uma via posterior e voluntária para quem desejar que o seu trabalho seja considerado como capítulo de livro ou artigo de revista.',
     items:[
       {n:'1',title:'Monografia coletiva na Ediciones Intracom',desc:'Capítulo de livro numa monografia coletiva do congresso, em coleções científicas com conselho editorial. Avaliação por pares em duplo cego, ISBN para a obra e DOI para cada capítulo.'},
-      {n:'2',title:'Revista do DDHHGLOBAL e revistas colaboradoras',desc:'Os autores podem optar por submeter o seu trabalho à revista do congresso, a Revista Iberoamericana de Derechos Humanos y Globalización, ou a uma revista colaboradora, que o sujeitará ao seu próprio processo de avaliação: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'2',title:'Revista do DDHHGLOBAL e revistas colaboradoras',url:'https://ddhhglobal-journal.portalintracom.com',urlLabel:'Ir para a revista do DDHHGLOBAL →',desc:'Os autores podem optar por submeter o seu trabalho à revista do congresso, a Revista Iberoamericana de Derechos Humanos y Globalización, ou a uma revista colaboradora, que o sujeitará ao seu próprio processo de avaliação: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
       {n:'3',title:'Qualidade científica comprovável',desc:'A aceitação depende apenas da avaliação científica, nunca do pagamento da inscrição. São aceites trabalhos em espanhol, português e inglês.'}
     ],
     faqTitle:"Perguntas frequentes sobre a publicação",
