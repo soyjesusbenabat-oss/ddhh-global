@@ -97,11 +97,11 @@ es:{
     listenerCta:'¿Solo quiere asistir? Inscripción de oyentes →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'Con actividad de networking',desc:'Incluye todos los derechos de la inscripción básica en modalidad presencial e incorpora una cena de trabajo o cóctel con otras personas participantes del congreso.'},
-      {color:'#f7941d',price:'250€',title:'Con publicación científica',desc:'Opción voluntaria que solo abona el primer firmante de cada propuesta. Complemento (+100€) para sufragar la evaluación por pares ciega y la edición en una editorial indexada en el ranking SPI.'},
-      {color:'#e6308c',price:'280€',title:'Inscripción completa',desc:'Dirigida exclusivamente a los primeros firmantes que asistan de manera presencial y deseen incluir tanto la actividad de networking como la publicación en editorial SPI.'},
+      {color:'#f7941d',price:'250€',title:'Con publicación científica',desc:'Opción voluntaria que solo abona el primer firmante de cada propuesta. Complemento (+100€) para sufragar la evaluación por pares ciega y la edición en Ediciones Intracom.'},
+      {color:'#e6308c',price:'280€',title:'Inscripción completa',desc:'Dirigida exclusivamente a los primeros firmantes que asistan de manera presencial y deseen incluir tanto la actividad de networking como la publicación en Ediciones Intracom.'},
       {color:'#14b8c4',price:'80€',title:'Oyente',desc:'Derecho a asistir a las sesiones científicas del congreso. Puedes complementarla con la actividad de networking (+45€).'},
       {color:'#1f9fe0',price:'80€',title:'Congresista online',desc:'Permite la presentación de una comunicación en formato virtual, en directo o en diferido.'},
-      {color:'#7a2da0',price:'180€',title:'Congresista online con publicación',desc:'Opción voluntaria que solo abona el primer firmante. Modalidad online + complemento de publicación (+100€) para la evaluación y edición en editorial del ranking SPI.'}
+      {color:'#7a2da0',price:'180€',title:'Congresista online con publicación',desc:'Opción voluntaria que solo abona el primer firmante. Modalidad online + complemento de publicación (+100€) para la evaluación y edición en Ediciones Intracom.'}
     ],
     bonif:{
       title:'Modalidades bonificadas',
@@ -133,12 +133,12 @@ es:{
   },
   pubs:{
     label:'Publicaciones y resultados',h2:'De la comunicación a la publicación científica',
-    p1a:'DDHHGLOBAL es un congreso sectorial del ',p1b:'. Desde 2019 publica las contribuciones en monografías de la editorial Dykinson y en revistas científicas indexadas.',
+    p1a:'DDHHGLOBAL es un congreso sectorial del ',p1b:'. Desde 2019 publica las contribuciones en monografías colectivas y en revistas científicas indexadas.',
     p2:'Presentar la comunicación en el programa no obliga a enviar el texto completo: la publicación es una vía posterior y voluntaria para quienes deseen que su trabajo se considere como capítulo de libro o artículo de revista.',
     items:[
-      {n:'1',title:'Monografía en editorial de primer nivel (SPI)',desc:'Publicación en monografía tras evaluación por pares ciegos en la editorial Dykinson u otra del primer nivel del ranking SPI.'},
-      {n:'2',title:'Monografía de la Editorial Intracom',desc:'Publicación en monografía de la Editorial Intracom, tras revisión por pares ciegos.'},
-      {n:'3',title:'Revistas científicas colaboradoras',desc:'Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'}
+      {n:'1',title:'Monografía colectiva en Ediciones Intracom',desc:'Capítulo de libro en una monografía colectiva del congreso, en colecciones científicas con consejo editorial. Evaluación por pares de doble ciego, ISBN para la obra y DOI para cada capítulo.'},
+      {n:'2',title:'Revista de DDHHGLOBAL y revistas colaboradoras',desc:'Los autores pueden optar por presentar su trabajo a la revista del congreso, la Revista Iberoamericana de Derechos Humanos y Globalización, o a una revista colaboradora, que lo someterá a su propio proceso de evaluación: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'3',title:'Calidad científica acreditable',desc:'La aceptación depende solo de la evaluación científica, nunca del pago de la inscripción. Se admiten trabajos en español, portugués e inglés.'}
     ],
     faqTitle:"Preguntas frecuentes sobre la publicación",
     faq:[
@@ -262,11 +262,11 @@ en:{
     listenerCta:'Attending only? Listener registration →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'With networking activity',desc:'Includes all rights of the standard in-person registration, plus a working dinner or cocktail with other congress participants.'},
-      {color:'#f7941d',price:'250€',title:'With scientific publication',desc:'Voluntary option payable by the first author only. Add-on (+100€) covering blind peer review and publication in an SPI-ranked publisher.'},
-      {color:'#e6308c',price:'280€',title:'Full registration',desc:'For first authors attending in-person who wish to include both the networking activity and the SPI publication add-on.'},
+      {color:'#f7941d',price:'250€',title:'With scientific publication',desc:'Voluntary option payable by the first author only. Add-on (+100€) covering blind peer review and publication with Ediciones Intracom.'},
+      {color:'#e6308c',price:'280€',title:'Full registration',desc:'For first authors attending in-person who wish to include both the networking activity and the publication add-on.'},
       {color:'#14b8c4',price:'80€',title:'Listener',desc:'Right to attend the scientific sessions. Can be supplemented with the networking activity (+45€).'},
       {color:'#1f9fe0',price:'80€',title:'Online participant',desc:'Allows the presentation of a paper in virtual format, live or recorded.'},
-      {color:'#7a2da0',price:'180€',title:'Online participant with publication',desc:'Voluntary option payable by the first author. Online modality + publication add-on (+100€) for peer review and publication in an SPI-ranked journal.'}
+      {color:'#7a2da0',price:'180€',title:'Online participant with publication',desc:'Voluntary option payable by the first author. Online modality + publication add-on (+100€) for peer review and publication with Ediciones Intracom.'}
     ],
     bonif:{
       title:'Reduced-fee modalities',
@@ -298,12 +298,12 @@ en:{
   },
   pubs:{
     label:'Publications & outcomes',h2:'From presentation to scientific publication',
-    p1a:'DDHHGLOBAL is a sectoral congress of the ',p1b:'. Since 2019 it has published contributions in monographs by Dykinson and in indexed scientific journals.',
+    p1a:'DDHHGLOBAL is a sectoral congress of the ',p1b:'. Since 2019 it has published contributions in collective monographs and in indexed scientific journals.',
     p2:'Presenting a paper at the congress does not oblige sending the full text: publication is a subsequent, voluntary option for those who wish their work to be considered as a book chapter or journal article.',
     items:[
-      {n:'1',title:'Monograph in a top-tier publisher (SPI)',desc:'Publication after blind peer review at Dykinson or another top-tier publisher in the SPI ranking.'},
-      {n:'2',title:'Intracom editorial monograph',desc:'Publication in an Intracom editorial monograph, following blind peer review.'},
-      {n:'3',title:'Partner scientific journals',desc:'Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'}
+      {n:'1',title:'Collective monograph with Ediciones Intracom',desc:'Book chapter in a collective monograph of the conference, in scholarly series with an editorial board. Double-blind peer review, an ISBN for the volume and a DOI for each chapter.'},
+      {n:'2',title:'DDHHGLOBAL journal and partner journals',desc:'Authors may choose to submit their work to the conference journal, the Iberoamerican Journal of Human Rights and Globalization, or to a partner journal, which will put it through its own review process: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'3',title:'Verifiable scientific quality',desc:'Acceptance depends solely on scientific review, never on payment of the registration fee. Papers are accepted in Spanish, Portuguese and English.'}
     ],
     faqTitle:"Frequently asked questions about publication",
     faq:[
@@ -427,11 +427,11 @@ pt:{
     listenerCta:'Só quer assistir? Inscrição de ouvintes →',
     otros:[
       {color:'#8bc53f',price:'195€',title:'Com atividade de networking',desc:'Inclui todos os direitos da inscrição base em modalidade presencial e incorpora um jantar de trabalho ou cocktail com outros participantes do congresso.'},
-      {color:'#f7941d',price:'250€',title:'Com publicação científica',desc:'Opção voluntária paga apenas pelo primeiro signatário. Complemento (+100€) para a avaliação por pares cega e edição numa editora indexada no ranking SPI.'},
-      {color:'#e6308c',price:'280€',title:'Inscrição completa',desc:'Destinada exclusivamente aos primeiros signatários que participem presencialmente e desejem incluir tanto a atividade de networking como a publicação em editora SPI.'},
+      {color:'#f7941d',price:'250€',title:'Com publicação científica',desc:'Opção voluntária paga apenas pelo primeiro signatário. Complemento (+100€) para a avaliação por pares cega e edição na Ediciones Intracom.'},
+      {color:'#e6308c',price:'280€',title:'Inscrição completa',desc:'Destinada exclusivamente aos primeiros signatários que participem presencialmente e desejem incluir tanto a atividade de networking como a publicação na Ediciones Intracom.'},
       {color:'#14b8c4',price:'80€',title:'Ouvinte',desc:'Direito a assistir às sessões científicas do congresso. Pode ser complementada com a atividade de networking (+45€).'},
       {color:'#1f9fe0',price:'80€',title:'Congressista online',desc:'Permite a apresentação de uma comunicação em formato virtual, em direto ou em diferido.'},
-      {color:'#7a2da0',price:'180€',title:'Congressista online com publicação',desc:'Opção voluntária paga pelo primeiro signatário. Modalidade online + complemento de publicação (+100€) para avaliação e edição em editora do ranking SPI.'}
+      {color:'#7a2da0',price:'180€',title:'Congressista online com publicação',desc:'Opção voluntária paga pelo primeiro signatário. Modalidade online + complemento de publicação (+100€) para avaliação e edição na Ediciones Intracom.'}
     ],
     bonif:{
       title:'Modalidades com desconto',
@@ -463,12 +463,12 @@ pt:{
   },
   pubs:{
     label:'Publicações e resultados',h2:'Da comunicação à publicação científica',
-    p1a:'O DDHHGLOBAL é um congresso setorial do ',p1b:'. Desde 2019 publica as contribuições em monografias da editora Dykinson e em revistas científicas indexadas.',
+    p1a:'O DDHHGLOBAL é um congresso setorial do ',p1b:'. Desde 2019 publica as contribuições em monografias coletivas e em revistas científicas indexadas.',
     p2:'Apresentar a comunicação no programa não obriga ao envio do texto completo: a publicação é uma via posterior e voluntária para quem desejar que o seu trabalho seja considerado como capítulo de livro ou artigo de revista.',
     items:[
-      {n:'1',title:'Monografia em editora de primeiro nível (SPI)',desc:'Publicação em monografia após avaliação por pares cegos na editora Dykinson ou noutra do primeiro nível do ranking SPI.'},
-      {n:'2',title:'Monografia da Editora Intracom',desc:'Publicação em monografia da Editora Intracom, após revisão por pares cegos.'},
-      {n:'3',title:'Revistas científicas colaboradoras',desc:'Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'}
+      {n:'1',title:'Monografia coletiva na Ediciones Intracom',desc:'Capítulo de livro numa monografia coletiva do congresso, em coleções científicas com conselho editorial. Avaliação por pares em duplo cego, ISBN para a obra e DOI para cada capítulo.'},
+      {n:'2',title:'Revista do DDHHGLOBAL e revistas colaboradoras',desc:'Os autores podem optar por submeter o seu trabalho à revista do congresso, a Revista Iberoamericana de Derechos Humanos y Globalización, ou a uma revista colaboradora, que o sujeitará ao seu próprio processo de avaliação: Revista Internacional de Pensamiento Político (Emerging WoS, FECYT) · Revista Jurídica de Canarias (Tirant lo Blanch) · Intracom Journal.'},
+      {n:'3',title:'Qualidade científica comprovável',desc:'A aceitação depende apenas da avaliação científica, nunca do pagamento da inscrição. São aceites trabalhos em espanhol, português e inglês.'}
     ],
     faqTitle:"Perguntas frequentes sobre a publicação",
     faq:[
