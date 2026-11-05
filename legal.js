@@ -32,7 +32,7 @@
     }
   },
   "titular": "Portal Intracom",
-  "banner": true
+  "banner": false
 };
 
   var DOCS = ["aviso-legal", "privacidad", "cookies"];
