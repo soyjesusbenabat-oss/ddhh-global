@@ -385,14 +385,14 @@
         <div style="font-family:'Hanken Grotesque',sans-serif;font-weight:700;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#7a2da0;margin-bottom:clamp(20px,2.4vw,32px);">{{ T.orgEntOrg }}</div>
         <div style="display:flex;flex-wrap:wrap;align-items:center;gap:clamp(24px,4vw,56px);margin-bottom:clamp(34px,4vw,52px);">
           <sc-for list="{{ org }}" as="e" hint-placeholder-count="2">
-            <sc-if value="{{ e.img }}" hint-placeholder-val="{{ true }}"><img src="{{ e.img }}" alt="{{ e.name }}" title="{{ e.name }}" loading="lazy" style="height:clamp(52px,5.5vw,82px);width:auto;object-fit:contain;"></sc-if>
+            <sc-if value="{{ e.img }}" hint-placeholder-val="{{ true }}"><img src="{{ e.img }}" alt="{{ e.name }}" title="{{ e.name }}" loading="lazy" style="height:{{ e.h }};width:auto;object-fit:contain;"></sc-if>
             <sc-if value="{{ e.noImg }}" hint-placeholder-val="{{ false }}"><span style="font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:clamp(20px,2vw,28px);color:#2a1f44;border:2px solid rgba(42,31,68,.16);border-radius:10px;padding:14px 22px;">{{ e.name }}</span></sc-if>
           </sc-for>
         </div>
         <div style="font-family:'Hanken Grotesque',sans-serif;font-weight:700;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#7a2da0;margin-bottom:clamp(20px,2.4vw,32px);">{{ T.orgEntCol }}</div>
         <div style="display:flex;flex-wrap:wrap;align-items:center;gap:clamp(22px,4vw,52px);">
           <sc-for list="{{ col }}" as="e" hint-placeholder-count="5">
-            <sc-if value="{{ e.img }}" hint-placeholder-val="{{ true }}"><img src="{{ e.img }}" alt="{{ e.name }}" title="{{ e.name }}" loading="lazy" style="height:clamp(46px,5vw,72px);width:auto;object-fit:contain;opacity:.85;transition:opacity .3s ease,transform .3s ease;" style-hover="opacity:1;transform:scale(1.05);"></sc-if>
+            <sc-if value="{{ e.img }}" hint-placeholder-val="{{ true }}"><img src="{{ e.img }}" alt="{{ e.name }}" title="{{ e.name }}" loading="lazy" style="height:{{ e.h }};width:auto;object-fit:contain;opacity:.85;transition:opacity .3s ease,transform .3s ease;" style-hover="opacity:1;transform:scale(1.05);"></sc-if>
             <sc-if value="{{ e.noImg }}" hint-placeholder-val="{{ false }}"><span style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:clamp(15px,1.5vw,19px);color:#6a5f80;border:2px solid rgba(42,31,68,.14);border-radius:9px;padding:11px 18px;">{{ e.name }}</span></sc-if>
           </sc-for>
         </div>
@@ -613,6 +613,7 @@ class Component extends DCLogic {
           ['Juan de la Cruz Ferrer','Universidad Complutense de Madrid','juan-de-la-cruz-ferrer.jpg'],
           ['Manuel Estepa Montero','Universidad Complutense de Madrid','manuel-estepa-montero.jpg'],
           ['Xabier Etxebarria Zarrabeitia','Universidad Complutense de Madrid','xabier-etxebarria-zarrabeitia.jpg'],
+          ['José Julio Fernández Rodríguez','Universidad de Santiago de Compostela','jose-julio-fernandez-rodriguez.jpg'],
           ['Pablo Gallego Rodríguez','Universidad de Córdoba','pablo-gallego-rodriguez.jpg'],
           ['Briseida S. Jiménez Gómez','Universidad Complutense de Madrid','briseida-s-jimenez-gomez.png'],
           ['Ainhoa Lasa López','Universidad del País Vasco','ainhoa-lasa-lopez.png'],
@@ -638,16 +639,20 @@ class Component extends DCLogic {
           ['Domingos Soares Farinho','Universidade de Lisboa, Portugal','domingos-soares-farinho.jpg']
         ])}
       ],
+      // La altura de cada logotipo se fija aquí porque un escudo cuadrado y un logotipo apaisado
+      // no pesan lo mismo a la misma altura: «h» equilibra lo que se ve, no lo que mide el archivo.
       org:[
-        {img:'complutense.png',name:'Universidad Complutense de Madrid',noImg:false},
-        {img:'intracom.png',name:'Portal Iberoamericano · Intracom',noImg:false}
+        {img:'complutense.png',name:'Universidad Complutense de Madrid',noImg:false,h:'clamp(68px,7.2vw,106px)'},
+        {img:'intracom.png',name:'Portal Iberoamericano · Intracom',noImg:false,h:'clamp(52px,5.5vw,82px)'}
       ],
       col:[
-        {img:'uco.png',name:'Universidad de Córdoba',noImg:false},
-        {img:'derecho-cordoba.jpg',name:'Facultad de Derecho · UCO',noImg:false},
-        {img:'sevilla.png',name:'Universidad de Sevilla',noImg:false},
-        {img:'catedra-muguerza.png',name:'Cátedra J. Muguerza · ULL',noImg:false},
-        {img:'derecho-lisboa.png',name:'Faculdade de Direito · Universidade de Lisboa',noImg:false}
+        {img:'uco.png',name:'Universidad de Córdoba',noImg:false,h:'clamp(46px,5vw,72px)'},
+        {img:'derecho-cordoba.jpg',name:'Facultad de Derecho · UCO',noImg:false,h:'clamp(46px,5vw,72px)'},
+        {img:'sevilla.png',name:'Universidad de Sevilla',noImg:false,h:'clamp(46px,5vw,72px)'},
+        {img:'usc.png',name:'Universidade de Santiago de Compostela',noImg:false,h:'clamp(50px,5.4vw,78px)'},
+        {img:'ceseg.jpg',name:'Centro de Estudos de Seguridade · CESEG',noImg:false,h:'clamp(34px,3.6vw,52px)'},
+        {img:'catedra-muguerza.png',name:'Cátedra J. Muguerza · ULL',noImg:false,h:'clamp(32px,3.4vw,48px)'},
+        {img:'derecho-lisboa.png',name:'Faculdade de Direito · Universidade de Lisboa',noImg:false,h:'clamp(62px,6.6vw,96px)'}
       ]
     };
   }
